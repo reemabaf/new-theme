@@ -1,0 +1,83 @@
+Rebuild my project from scratch with this requirement as the top priority:
+
+I need this project to be structured as a Salla-compatible theme foundation, not just a generic React or Vite storefront.
+
+My previous version failed because it was built like a normal frontend app and did not include the required Salla theme structure or the twilight.json file. I want this new version to be created in a way that makes it easy to move into a real Salla theme workflow later.
+
+Project:
+- Brand name: LORE
+- Products: stickers and phone cases
+- Theme: inspired by movies and TV shows
+- Style: premium, modern, clean, slightly playful
+- Main colors: deep purple, soft cream, light lavender accents
+
+Critical requirements:
+- The project must be static, modular, lightweight, and easy to convert into Salla theme sections later
+- Do not build this as a standard React-only e-commerce app with a random frontend structure
+- Build it with a folder and component structure that mirrors a real Salla theme as much as possible
+- Include a valid twilight.json file in the root
+- Include a clean theme-like architecture with reusable sections, components, layouts, assets, and settings
+- Make sure the root structure is suitable for Salla CLI preview workflow later
+- Avoid unnecessary backend logic
+- Avoid dependencies that make migration to Salla difficult
+- Keep the code clean and organized for GitHub
+
+Important:
+I do NOT want a generic web app.
+I want a project that is visually beautiful but also prepared for Salla theme conversion.
+
+Please use a structure similar to a real Salla/Twilight theme, including:
+- root theme config
+- sections/components
+- layouts
+- assets
+- product card component
+- collection section
+- hero section
+- featured products section
+- footer
+- settings or config-ready styling variables
+
+Also:
+- explain clearly which files are placeholders
+- explain which files would later map to Salla product variables
+- explain where Salla dynamic data would replace static sample data
+- include comments in code to show where Salla theme integration would happen later
+
+Pages/sections to include:
+- home page
+- featured collections
+- best sellers
+- stickers section
+- phone cases section
+- about brand
+- contact/footer
+
+Brand story:
+LORE is a stylish accessories brand that brings movie and TV show inspired designs into everyday life through high-quality stickers and phone cases. It should feel creative, fandom-inspired, elegant, and modern.
+
+Design direction:
+- premium but fun
+- modern fandom aesthetic
+- elegant spacing
+- soft shadows
+- rounded cards
+- clean product grids
+- mobile-first responsive layout
+- luxury-inspired storefront feel
+- not cartoonish
+- not overly complicated
+
+Output requirements:
+- clean folder structure
+- root config file(s)
+- twilight.json included
+- modular reusable sections
+- sample placeholder product data
+- README explaining how this project should later be adapted into a real Salla theme
+- GitHub-ready structure
+
+Very important:
+Before generating code, first describe the full folder structure and explain why it is better for Salla compatibility than a normal React/Vite storefront.
+
+Do not generate a plain Vite or React storefront unless you also reshape it into a Salla-theme-like structure with root configuration and theme-ready architecture.

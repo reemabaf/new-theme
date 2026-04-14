@@ -1,0 +1,133 @@
+Build me a modern e-commerce website for my brand “LORE”.
+
+Brand details:
+- Shop name: LORE
+- Products: phone cases and stickers
+- Theme: inspired by movies and TV shows
+- Style: modern, premium, clean, slightly playful, pop-culture inspired
+- Target audience: Gen Z and millennials who love stylish fandom accessories
+- Brand colors:
+  - Primary: deep purple inspired by my logo
+  - Secondary: soft cream / beige background
+  - Accent: light lavender or muted pink for subtle highlights
+- Overall feel: premium but fun, minimal but not boring
+
+Important:
+- The website must be built in a way that works well in Replit AI
+- It must be easy to push to GitHub
+- Keep the code clean and organized
+- Make it suitable to later connect or extract into Salla
+- Prefer a lightweight frontend structure
+- Make it responsive for mobile and desktop
+- Use clean reusable sections and components
+- Do not make it overly complex or dependent on heavy backend logic
+
+Tech requirements:
+- Build a static front-end store layout using HTML, CSS, and JavaScript, or React if Replit prefers that
+- Prioritize compatibility, simplicity, and clean folder structure
+- Include all assets in an organized way
+- Add clear comments in the code
+- Make the website production-style and polished
+- Prepare it for GitHub deployment
+
+Pages / sections required:
+1. Home page
+2. Shop page
+3. Product details page
+4. About brand section
+5. Featured collections section
+6. Best sellers section
+7. Sticker collection section
+8. Phone case collection section
+9. Contact / footer section
+
+Home page should include:
+- Hero section with the LORE brand
+- Tagline options like:
+  “Your favorite stories, now in your hands.”
+  “Cases and stickers inspired by iconic worlds.”
+  “Pop culture accessories with style.”
+- Featured movie and TV inspired collections
+- Best seller products
+- New arrivals
+- Customer review preview
+- Newsletter signup
+- Instagram / social section
+
+Design direction:
+- Clean luxury e-commerce style
+- Inspired by modern brands, not cartoonish
+- Use soft shadows, rounded cards, elegant spacing
+- Product cards should feel premium
+- Add hover effects
+- Add a sticky navigation bar
+- Include a search bar and cart icon
+- Include category filters on shop page
+- Include badges like “Best Seller”, “New”, “Limited Edition”
+
+Content examples:
+- Sample categories:
+  - Sitcom Collection
+  - Fantasy Collection
+  - Mystery Collection
+  - Romance Collection
+  - Classic TV Collection
+  - Movie Icons Collection
+- Sample product names:
+  - Central Perk Vibes Case
+  - Purple Door Frame Sticker
+  - Cinematic Nights Case
+  - Retro Sitcom Sticker Pack
+  - Mystery Nights Phone Case
+
+Product card details:
+- Product image
+- Product name
+- Short description
+- Price
+- Add to cart button
+- Favorite / wishlist icon
+
+Product page details:
+- Large image gallery
+- Product title
+- Price
+- Variant selector
+- Quantity selector
+- Add to cart button
+- Short product story
+- Related products section
+
+Navigation menu:
+- Home
+- Shop
+- Phone Cases
+- Stickers
+- Collections
+- About
+- Contact
+
+Footer:
+- About the brand
+- Quick links
+- Social icons
+- Contact email
+- Newsletter signup
+
+Brand story:
+LORE is a stylish accessories brand that brings movie and TV show inspired designs into everyday life through high-quality phone cases and stickers. The brand should feel creative, fandom-inspired, elegant, and modern.
+
+Extra instructions:
+- Use placeholder product images and content where needed
+- Keep everything visually polished
+- Make the layout easy to customize later
+- Make sure the code is easy to export to GitHub
+- Keep the structure suitable for possible integration with external e-commerce platforms like Salla
+- Use semantic HTML and clean CSS
+- Optimize for mobile first
+
+Also generate:
+1. A clean folder structure
+2. A README file explaining how to run the project in Replit
+3. GitHub push instructions
+4. Notes on which parts can later be connected to Salla
